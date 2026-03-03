@@ -6,3 +6,10 @@ NativeFormatImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 341560
+  packageName: Complete Off-Road Racing (PC / Console)
+  packageVersion: 1.0
+  assetPath: Assets/Settings/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset
+  uploadId: 811168

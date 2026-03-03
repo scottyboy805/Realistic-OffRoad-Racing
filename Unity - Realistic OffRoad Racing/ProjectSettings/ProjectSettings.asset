@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 86ff603146f98624eac46b6350f68940
+  productGUID: 67026c4da172d5345bd72cb1345a76e5
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -142,8 +142,9 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 0.1.0
-  preloadedAssets: []
+  bundleVersion: 1
+  preloadedAssets:
+  - {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -252,8 +253,8 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-  clonedFromGUID: c71a6e77368cc6048998f34f4bbe2b86
-  templatePackageId: com.unity.template.hdrp-blank@17.0.6
+  clonedFromGUID: 5fe9c0e4bd2281740937eb8d293e2c74
+  templatePackageId: 
   templateDefaultScene: Assets/OutdoorsScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -291,7 +292,14 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: 8b9b09f1162713a4ab5eaebae47dd662, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: iPhone
     m_Icons:
@@ -523,7 +531,7 @@ PlayerSettings:
     m_APIs: 10000000
     m_Automatic: 0
   - m_BuildTarget: WindowsStandaloneSupport
-    m_APIs: 1200000002000000
+    m_APIs: 02000000
     m_Automatic: 0
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
@@ -831,7 +839,25 @@ PlayerSettings:
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    EmbeddedLinux: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    GameCoreScarlett: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    GameCoreXboxOne: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    Kepler: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    LinuxHeadlessSimulation: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    Nintendo Switch: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    Nintendo Switch 2: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    PS4: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    PS5: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    QNX: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    Standalone: EASYROADS3D_PRO;AMPLIFY_SHADER_EDITOR;UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    VisionOS: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    WebGL: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    Windows Store Apps: BCG_RMD
+    XboxOne: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
+    iPhone: BCG_RMD
+    tvOS: UNITY_POST_PROCESSING_STACK_V2;BCG_RMD
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -942,7 +968,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: c4ca0648-f8df-4ecf-ae2d-94ecc14c1329
   framebufferDepthMemorylessMode: 0
