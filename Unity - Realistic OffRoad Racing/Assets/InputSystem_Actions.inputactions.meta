@@ -12,3 +12,10 @@ ScriptedImporter:
   wrapperCodePath: 
   wrapperClassName: 
   wrapperCodeNamespace: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 341560
+  packageName: Complete Off-Road Racing (PC / Console)
+  packageVersion: 1.0
+  assetPath: Assets/InputSystem_Actions.inputactions
+  uploadId: 811168
