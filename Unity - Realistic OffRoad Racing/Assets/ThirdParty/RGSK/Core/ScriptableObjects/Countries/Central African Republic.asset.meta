@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac5bb21e2560af649b403d71af3636f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Central African Republic.asset
+  uploadId: 824334

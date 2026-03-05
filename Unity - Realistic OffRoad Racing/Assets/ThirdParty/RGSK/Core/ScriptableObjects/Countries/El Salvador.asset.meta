@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f33ef39da5ee6d949adc49033da487f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/El Salvador.asset
+  uploadId: 824334

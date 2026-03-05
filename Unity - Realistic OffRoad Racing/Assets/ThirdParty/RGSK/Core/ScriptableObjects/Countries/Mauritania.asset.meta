@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 271fa7c1991810f43951eb4c8c33140f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Mauritania.asset
+  uploadId: 824334

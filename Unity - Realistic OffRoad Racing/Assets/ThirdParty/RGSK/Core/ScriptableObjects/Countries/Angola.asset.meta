@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d267f2097c24114f9298228a7ac86db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Angola.asset
+  uploadId: 824334

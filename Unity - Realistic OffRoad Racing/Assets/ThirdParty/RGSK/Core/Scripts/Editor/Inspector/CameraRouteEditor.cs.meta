@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f3246b90fbfb67438a8c74950b91102
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Editor/Inspector/CameraRouteEditor.cs
+  uploadId: 824334

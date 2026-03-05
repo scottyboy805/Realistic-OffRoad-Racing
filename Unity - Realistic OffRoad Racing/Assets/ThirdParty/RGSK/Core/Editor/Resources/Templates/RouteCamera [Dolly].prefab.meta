@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff6e1a4e6538cc64ea120f1773fa54ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/RouteCamera [Dolly].prefab
+  uploadId: 824334

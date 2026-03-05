@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 983ab7f9e9c744244be716412b69477e, type: 3}
+  m_Name: RGSKUISettings
+  m_EditorClassIdentifier: 
+  screens:
+    loadingScreen: {fileID: 11400000, guid: 8aff8beff5aa953499a3265207b71ca5, type: 2}
+    pauseScreen: {fileID: 11400000, guid: f3adcce44c2ebba47bf34652cf93cd2f, type: 2}
+    replayScreeen: {fileID: 11400000, guid: 1b4d7d7502d1c234383629839672910c, type: 2}
+    preRaceScreen: {fileID: 11400000, guid: 02a65f35ec3ca234aaec91cf0f139359, type: 2}
+    raceScreen: {fileID: 11400000, guid: 500febdba1160304fa612f25aba92e59, type: 2}
+    postRaceScreen: {fileID: 11400000, guid: bfb6537c82406984ca227787c6ea4ba9, type: 2}
+    spectatorScreen: {fileID: 11400000, guid: f5104d639c9b0234d81fc890bd0acbcd, type: 2}
+    vehicleSelectScreen: {fileID: 11400000, guid: 0f4d9fff22516aa4393bcf8d89bb3604, type: 2}
+    trackSelectScreen: {fileID: 11400000, guid: d577660472bb0834e871cadfab7353ef, type: 2}
+    raceSettingsScreen: {fileID: 11400000, guid: 02d86e789404f254c908e51a19ba723f, type: 2}
+  defaultRaceUILayout: {fileID: 3308690068924448725, guid: 026337f50f10947498eeda111ca24a1f, type: 3}
+  raceUILayouts:
+  - {fileID: 3308690068924448725, guid: 11e35b72d7d4a674c97c2d74ed7d5cc2, type: 3}
+  - {fileID: 3308690068924448725, guid: 647cf7e483a47e54ead40a2402a38874, type: 3}
+  - {fileID: 3308690068924448725, guid: 026337f50f10947498eeda111ca24a1f, type: 3}
+  - {fileID: 3308690068924448725, guid: b36fe9567862302439fee13efbf3e59e, type: 3}
+  - {fileID: 3308690068924448725, guid: b0d0cb19393fc9e418f97c348ccf311c, type: 3}
+  - {fileID: 3308690068924448725, guid: 4c785ee3fc5c86b47aa03bfab7e30d4a, type: 3}
+  - {fileID: 3308690068924448725, guid: db58374c09f0ce44da10431d59c8d7f4, type: 3}
+  - {fileID: 3308690068924448725, guid: c98aef1e05c220e4c96ec6e4e898fbab, type: 3}
+  - {fileID: 3308690068924448725, guid: f70931a99a6159149acb59af7411ff4b, type: 3}
+  - {fileID: 3308690068924448725, guid: 4a50f130c21bab342bf07ba233adc3a5, type: 3}
+  - {fileID: 3308690068924448725, guid: 08f0401059c7d8b4da991ebebfb72160, type: 3}
+  defaultRaceBoardLayout: {fileID: 11400000, guid: a0f624750527ea6449e34ff1911561d2, type: 2}
+  raceBoardLayouts:
+  - {fileID: 11400000, guid: 92d2ff6c5a9b223438707a4bbca05997, type: 2}
+  - {fileID: 11400000, guid: b18d2060bc7224c409211a5e91841530, type: 2}
+  - {fileID: 11400000, guid: b3ced6b08d5e85b4cb16955116ec914c, type: 2}
+  - {fileID: 11400000, guid: a824438063157094983ddc8117b62fbe, type: 2}
+  - {fileID: 11400000, guid: 4d740a562f6679a4b93878f555dfbeff, type: 2}
+  - {fileID: 11400000, guid: ca3ef393b96e11e49b881c15142bef4e, type: 2}
+  - {fileID: 11400000, guid: da25c06ff841ac449a272fe1b0e3f5ba, type: 2}
+  - {fileID: 11400000, guid: acfd9dbbd5fe22149b809f634809b52e, type: 2}
+  - {fileID: 11400000, guid: 5dd307f6b448a0b4083267c4a877071c, type: 2}
+  nameplate: {fileID: 6117822036330727315, guid: 802d04058a3068e42a875eff352352e4, type: 3}
+  waypointArrow: {fileID: 6040334857012283696, guid: 481dcbdc49e21cd448f09ccb0df57014, type: 3}
+  showNameplates: 1
+  showWaypointArrow: 0
+  playerMinimapBlip: player
+  opponentMinimapBlip: opponent
+  showProximityArrows: 1
+  targetScoreIcons:
+  - name: Gold
+    icon: {fileID: 21300000, guid: 0bf45e96520d58a43b379a8a199dac46, type: 3}
+    color: {r: 1, g: 0.84313726, b: 0, a: 1}
+  - name: Silver
+    icon: {fileID: 21300000, guid: 0bf45e96520d58a43b379a8a199dac46, type: 3}
+    color: {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 1}
+  - name: Bronze
+    icon: {fileID: 21300000, guid: 0bf45e96520d58a43b379a8a199dac46, type: 3}
+    color: {r: 0.8039216, g: 0.49803922, b: 0.19607843, a: 1}
+  raceTimerFormat: 0
+  realtimeGapTimerFormat: 3
+  measureUnit: 0
+  raceBoardPositionFormat: 1
+  raceBoardLapFormat: 1
+  raceBoardVehicleNameFormat: 0
+  raceBoardNameFormat: 0
+  dnfString: DNF
+  currencyFormat: Cr. {0}
+  lockedItemFormat: Unlocks at level {0}
+  buttonHoverSound: button_hover
+  buttonClickSound: button_click
+  modalWindowPrefabs:
+  - {fileID: 1422547413722850115, guid: b3fad2211e3de0943923492c85fd9bfc, type: 3}
+  restartModal:
+    header: Restart
+    message: Are you sure you want to restart?
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0
+  exitModal:
+    header: Exit
+    message: Are you sure you want to exit?
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0
+  quitModal:
+    header: Quit
+    message: Are you sure you want to quit?
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0
+  purchasePromptModal:
+    header: Purchase
+    message: Do you want to purchase {0} for {1}?
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0
+  purchaseFailModal:
+    header: Purchase
+    message: You do not have enough currency!
+    confirmButtonText: Ok
+    declineButtonText: 
+    startSelection: 0
+    prefabIndex: 0
+  lockedItemModal:
+    header: Locked
+    message: This item will unlock at level {0}!
+    confirmButtonText: Ok
+    declineButtonText: 
+    startSelection: 0
+    prefabIndex: 0
+  lockedItemConditionalModal:
+    header: Locked
+    message: '{0}'
+    confirmButtonText: Ok
+    declineButtonText: 
+    startSelection: 0
+    prefabIndex: 0
+  deleteSaveModal:
+    header: Delete Save Data
+    message: 'Are you sure you want to delete the save data?
+
+      This cannot be
+      undone.'
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0
+  resetInputBindingsModal:
+    header: Reset Input Bindings
+    message: Are you sure you want to reset all input bindings?
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0
+  endRaceSessionModal:
+    header: End Session
+    message: Are you sure you want to end the session?
+    confirmButtonText: Yes
+    declineButtonText: No
+    startSelection: 1
+    prefabIndex: 0

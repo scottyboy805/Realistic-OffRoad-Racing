@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e908e4702fc83f40b109a9d7d7ca34f, type: 3}
+  m_Name: RGSKVehicleSettings
+  m_EditorClassIdentifier: Assembly-CSharp:RGSK:RGSKVehiclePhysicsSettings
+  gripHandling: {fileID: 11400000, guid: 761cf57ea73e51f4390776ed568eaf53, type: 2}
+  driftHandling: {fileID: 11400000, guid: 0a0880f1632b38e4da070086f2b79f44, type: 2}
+  autoThrottle: 0
+  autoBrake: 0
+  transmissionType: 0
+  autoStartEngine: 1
+  autoReverseManual: 1
+  autoShiftWheelSlipThreshold: 0.25
+  windSound: {fileID: 8300000, guid: 4bc8b492d9f5dc042a04f4d9c06a340d, type: 3}
+  nitroSound: {fileID: 8300000, guid: 788878f2c5469104ea7f2a6ebb6291d0, type: 3}
+  backfireSounds:
+  - {fileID: 8300000, guid: b716290ee80d5664da4218e321cd0de9, type: 3}
+  fallbackWheelSurface: {fileID: 11400000, guid: b076bc13b30f2df48b78e3fe3af942df, type: 2}
+  wheelSurfaces:
+  - {fileID: 11400000, guid: b076bc13b30f2df48b78e3fe3af942df, type: 2}
+  - {fileID: 11400000, guid: 06e264d2148ae4c4cb2e5e164215758a, type: 2}
+  - {fileID: 11400000, guid: 3b21aabaa370dcd408b2ad26d637f1be, type: 2}
+  - {fileID: 11400000, guid: 2a46d0a86ceeffc4cbccdd2a5e46fe8f, type: 2}
+  fallbackCollisionSurface: {fileID: 11400000, guid: c25ff18c9cc2e4740a4f6525cc67eaa7, type: 2}
+  collisionSurfaces:
+  - {fileID: 11400000, guid: c25ff18c9cc2e4740a4f6525cc67eaa7, type: 2}
+  - {fileID: 11400000, guid: 03623c1966b9a0b41bce20dea41203ee, type: 2}
+  ghostMaterial: {fileID: 2100000, guid: 4d64a3f764159224dbca0bb2d6a656a0, type: 2}
+  ghostMaterialColorProperty: _BaseColor
+  ghostMaterialTextureProperty: _BaseMap
+  vehicleColorList: {fileID: 11400000, guid: 7b50de1bc62a7ee4c95d063ec57ef25f, type: 2}
+  vehicleDrivers:
+  - {fileID: 6860630549947168584, guid: 87bc77908f5b68348b27b3c8d9c54e64, type: 3}
+  - {fileID: 4803681376329532908, guid: 439063ae4412d7445bd51e94e8314b7e, type: 3}
+  - {fileID: 4803681376329532908, guid: 0d72a10c0193e7d4892ef4b86d605d8d, type: 3}
+  - {fileID: 4803681376329532908, guid: df901a1e37860fd43a38276d1faab74d, type: 3}
+  - {fileID: 4803681376329532908, guid: 65bdcdd563035be4aa9f48225e8a1472, type: 3}

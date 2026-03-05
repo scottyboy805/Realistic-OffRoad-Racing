@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 14f65fd76c66a92449474e25f61af68a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/AI/AIController.cs
+  uploadId: 824334

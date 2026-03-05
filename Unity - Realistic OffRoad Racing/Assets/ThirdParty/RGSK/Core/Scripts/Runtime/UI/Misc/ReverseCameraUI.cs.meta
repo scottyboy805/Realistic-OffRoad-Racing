@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c029cc9edb6d214983d9e0ff6599acc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Misc/ReverseCameraUI.cs
+  uploadId: 824334

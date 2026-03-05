@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57136f90b0b7074eb28593ee07fafca, type: 3}
+  m_Name: WheelSurface_Dirt
+  m_EditorClassIdentifier: 
+  physicMaterial: {fileID: 13400000, guid: d4af7d5f2d6882f4482615ecaa95ae25, type: 2}
+  terrainTextures:
+  - {fileID: 2800000, guid: e3af31a8a3631bd4ba04a7e9d113990e, type: 3}
+  - {fileID: 2800000, guid: c34e4b63a8620394f9a72363d2ce15d2, type: 3}
+  emissionType: 1
+  forwardGrip: 0.5
+  sidewaysGrip: 0.75
+  dampingRate: 3
+  minSlip: 0
+  wheelslipSound: {fileID: 8300000, guid: a3e0453e9e1b6f94aab1235c9074de1f, type: 3}
+  wheelslipParticles: {fileID: 19800000, guid: f3e673ac5e7a8de4fbc78622dafd7a0f, type: 3}
+  tyremarksPrefab: {fileID: 3405372533369919231, guid: dd86b585fc54bba4f8897ccb5bb51b43, type: 3}

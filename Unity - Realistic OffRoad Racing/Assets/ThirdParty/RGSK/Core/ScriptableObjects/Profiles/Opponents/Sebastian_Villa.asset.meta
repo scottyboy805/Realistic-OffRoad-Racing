@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77160d8b6021ba94597a2d67c5eab1ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Profiles/Opponents/Sebastian_Villa.asset
+  uploadId: 824334

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1cfd1427fa39cb4a9e343c43915186d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/HUD/Nameplate.cs
+  uploadId: 824334

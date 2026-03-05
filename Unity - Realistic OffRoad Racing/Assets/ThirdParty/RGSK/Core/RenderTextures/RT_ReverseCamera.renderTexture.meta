@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9e59a47c0efbd840b12b21dfc95e097
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/RenderTextures/RT_ReverseCamera.renderTexture
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53d9b9e2c4d978b4daefb8347a7d9693
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Profiles/Opponents/Ozzy_Reeves.asset
+  uploadId: 824334

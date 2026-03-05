@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 788313520b6e40345bd0c981a80343e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Kyrgyzstan.asset
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c778165e1b9e95459b76b4f32ea88c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 24100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Audio/AudioMixer.mixer
+  uploadId: 824334

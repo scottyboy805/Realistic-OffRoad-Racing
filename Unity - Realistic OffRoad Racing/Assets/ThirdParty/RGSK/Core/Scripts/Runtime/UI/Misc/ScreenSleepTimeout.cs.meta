@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b29edd81c17777645a50eab04ffebadf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Misc/ScreenSleepTimeout.cs
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa28829aaa6619c43bfbd6ac48c54015
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Montserrat.asset
+  uploadId: 824334

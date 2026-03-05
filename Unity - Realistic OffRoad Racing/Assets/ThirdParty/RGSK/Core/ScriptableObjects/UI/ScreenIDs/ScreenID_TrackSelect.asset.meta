@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d577660472bb0834e871cadfab7353ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/UI/ScreenIDs/ScreenID_TrackSelect.asset
+  uploadId: 824334

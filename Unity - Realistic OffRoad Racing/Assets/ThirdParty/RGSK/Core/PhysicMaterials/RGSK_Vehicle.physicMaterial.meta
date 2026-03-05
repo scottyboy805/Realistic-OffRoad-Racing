@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4b512a795d6ac04bb43817ad1fb8d49
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/PhysicMaterials/RGSK_Vehicle.physicMaterial
+  uploadId: 824334

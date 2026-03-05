@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aad0e87d26a972e4bbed9a742c6c0ba6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Eritrea.asset
+  uploadId: 824334

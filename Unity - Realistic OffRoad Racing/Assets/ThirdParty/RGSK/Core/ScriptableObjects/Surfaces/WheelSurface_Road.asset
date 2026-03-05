@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57136f90b0b7074eb28593ee07fafca, type: 3}
+  m_Name: WheelSurface_Road
+  m_EditorClassIdentifier: 
+  physicMaterial: {fileID: 13400000, guid: 334ef4a814105d8448738ec0e6f56838, type: 2}
+  terrainTextures: []
+  emissionType: 0
+  forwardGrip: 1
+  sidewaysGrip: 1
+  dampingRate: 0.25
+  minSlip: 0.5
+  wheelslipSound: {fileID: 8300000, guid: d61983672d6a491438f5107ebd984172, type: 3}
+  wheelslipParticles: {fileID: 19800000, guid: 76bfeaa5c6927534e9e46790f09dfea9, type: 3}
+  tyremarksPrefab: {fileID: 7700957690458720904, guid: c2905d016f6b97f4b8b55b43ae1b35c6, type: 3}

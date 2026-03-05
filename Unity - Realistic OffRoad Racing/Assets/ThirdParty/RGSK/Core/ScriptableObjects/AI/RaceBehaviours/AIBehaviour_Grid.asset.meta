@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baf453b0e57e51043b56f31c74dfe2be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/AI/RaceBehaviours/AIBehaviour_Grid.asset
+  uploadId: 824334

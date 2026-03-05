@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 065084d2cfb1ef74e87bfd1f9ac8e4bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/UI/RaceBoardLayouts/BoardLayout_Grid.asset
+  uploadId: 824334

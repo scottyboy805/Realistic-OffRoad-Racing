@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3ced6b08d5e85b4cb16955116ec914c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/UI/RaceBoardLayouts/BoardLayout_Elimination.asset
+  uploadId: 824334

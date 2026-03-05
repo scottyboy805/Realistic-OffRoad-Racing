@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ba982c22af5268b4c937d3edd5cf4938
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Editor/Util/EditorHelper.cs
+  uploadId: 824334

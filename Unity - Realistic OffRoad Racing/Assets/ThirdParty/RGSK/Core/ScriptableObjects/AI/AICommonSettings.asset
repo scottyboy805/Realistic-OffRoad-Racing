@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db241e5ee2b0f5447b9df0900884f827, type: 3}
+  m_Name: AICommonSettings
+  m_EditorClassIdentifier: 
+  obstacleLayers:
+    serializedVersion: 2
+    m_Bits: 576
+  targetReachedDistance: 5
+  forwardSensorRange: 100
+  minBoostDistance: 100
+  minMaxCautionAngle: {x: 10, y: 90}
+  minMaxCautionDistance: {x: 10, y: 100}
+  minMaxTravelResetDuration: {x: 5, y: 10}
+  travelResetDurationOnActivate: 10
+  stuckSpeed: 3
+  stuckReverseTime: 2
+  reverseDuration: 2
+  maxReverseAttempts: 3

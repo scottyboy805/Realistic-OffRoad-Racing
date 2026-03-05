@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00633e0d4951d2a44aefbb0741157aa3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/VehicleDashboard.prefab
+  uploadId: 824334

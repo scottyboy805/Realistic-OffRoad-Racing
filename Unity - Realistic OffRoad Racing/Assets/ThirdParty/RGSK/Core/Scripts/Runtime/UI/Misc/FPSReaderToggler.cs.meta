@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c4a7ea731a235e49a93ebf259136232
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Misc/FPSReaderToggler.cs
+  uploadId: 824334

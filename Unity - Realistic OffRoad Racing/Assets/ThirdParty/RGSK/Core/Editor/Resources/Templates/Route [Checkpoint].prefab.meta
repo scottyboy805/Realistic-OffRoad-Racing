@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb607e418d0930b499b1b02790a7825a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/Route [Checkpoint].prefab
+  uploadId: 824334

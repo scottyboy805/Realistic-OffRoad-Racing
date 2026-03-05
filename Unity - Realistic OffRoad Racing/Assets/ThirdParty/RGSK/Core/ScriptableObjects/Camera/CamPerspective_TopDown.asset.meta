@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cad86cb1b5c2a6d4294f6286ad90f934
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Camera/CamPerspective_TopDown.asset
+  uploadId: 824334

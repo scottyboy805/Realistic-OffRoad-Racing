@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57136f90b0b7074eb28593ee07fafca, type: 3}
+  m_Name: WheelSurface_Wet
+  m_EditorClassIdentifier: 
+  physicMaterial: {fileID: 13400000, guid: f1f45fc4df207724db91a342404ae6bd, type: 2}
+  terrainTextures: []
+  emissionType: 1
+  forwardGrip: 0.25
+  sidewaysGrip: 0.5
+  dampingRate: 1
+  minSlip: 0
+  wheelslipSound: {fileID: 8300000, guid: 9eff9f99090f30544b8ae88a139c5081, type: 3}
+  wheelslipParticles: {fileID: 6992590126833044924, guid: 0a5488c78517f9f49924e144f818a488, type: 3}
+  tyremarksPrefab: {fileID: 0}

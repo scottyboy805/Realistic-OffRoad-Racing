@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a1000ac4b2448a4092a8e44cf3e4d86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Jamaica.asset
+  uploadId: 824334

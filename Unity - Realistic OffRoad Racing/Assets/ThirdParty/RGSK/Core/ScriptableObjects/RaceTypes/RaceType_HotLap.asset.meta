@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d54f227789f30746b5ccd8f9ff4b65d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/RaceTypes/RaceType_HotLap.asset
+  uploadId: 824334

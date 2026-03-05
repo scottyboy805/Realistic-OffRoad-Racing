@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be64707b85b60b74abec7fa9c78285db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/ScriptableObject/Settings/AIBehaviourSettings.cs
+  uploadId: 824334

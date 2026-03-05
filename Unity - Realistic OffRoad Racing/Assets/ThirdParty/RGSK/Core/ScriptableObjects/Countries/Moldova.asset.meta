@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 052b183341b53dc4fbd9473e621ed900
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Moldova.asset
+  uploadId: 824334

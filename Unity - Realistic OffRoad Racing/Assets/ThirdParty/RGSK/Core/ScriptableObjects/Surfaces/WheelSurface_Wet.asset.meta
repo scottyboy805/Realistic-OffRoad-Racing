@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a46d0a86ceeffc4cbccdd2a5e46fe8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Surfaces/WheelSurface_Wet.asset
+  uploadId: 824334

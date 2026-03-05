@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3a743bc4db1ab438aa59c0c2b4d87b, type: 3}
+  m_Name: RGSKCore
+  m_EditorClassIdentifier: 
+  versionNumber: 2.1.2
+  persistentManagers: {fileID: 8163635898291820813, guid: 41ae129cefa4d97449094b9374eb20d7, type: 3}
+  generalSettings: {fileID: 11400000, guid: 1435b92d40d069c4db9b559721a8828c, type: 2}
+  sceneSettings: {fileID: 11400000, guid: 8e8ce246ab870a1428414fa749056676, type: 2}
+  contentSettings: {fileID: 11400000, guid: 2f0ea1673a21fd640bb5af00564696b8, type: 2}
+  raceSettings: {fileID: 11400000, guid: 9b27bf8c93435b342b144850f0036146, type: 2}
+  aiSettings: {fileID: 11400000, guid: aa2253f7e72ce9049885f5e1933e989d, type: 2}
+  uiSettings: {fileID: 11400000, guid: 01635a024f59c1f4695e915d99640c1c, type: 2}
+  audioSettings: {fileID: 11400000, guid: aca2826080fb983498f13e3d03f724bf, type: 2}
+  inputSettings: {fileID: 11400000, guid: 7a5af36bd78f8f44b942eccd8cab4634, type: 2}
+  vehicleSettings: {fileID: 11400000, guid: 4ccb224728d335e429da5718465f88f3, type: 2}
+  _fallbackGeneralSettings: {fileID: 11400000, guid: 1435b92d40d069c4db9b559721a8828c, type: 2}
+  _fallbackSceneSettings: {fileID: 11400000, guid: 8e8ce246ab870a1428414fa749056676, type: 2}
+  _fallbackContentSettings: {fileID: 11400000, guid: 2f0ea1673a21fd640bb5af00564696b8, type: 2}
+  _fallbackRaceSettings: {fileID: 11400000, guid: 9b27bf8c93435b342b144850f0036146, type: 2}
+  _fallbackAiSettings: {fileID: 11400000, guid: aa2253f7e72ce9049885f5e1933e989d, type: 2}
+  _fallbackUiSettings: {fileID: 11400000, guid: 01635a024f59c1f4695e915d99640c1c, type: 2}
+  _fallbackAudioSettings: {fileID: 11400000, guid: aca2826080fb983498f13e3d03f724bf, type: 2}
+  _fallbackInputSettings: {fileID: 11400000, guid: 7a5af36bd78f8f44b942eccd8cab4634, type: 2}
+  _fallbackVehicleSettings: {fileID: 11400000, guid: 4ccb224728d335e429da5718465f88f3, type: 2}

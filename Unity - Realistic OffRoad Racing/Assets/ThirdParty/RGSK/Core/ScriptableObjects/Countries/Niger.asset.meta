@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a9eb4fe87a84c6498e7c7f564d1a092
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Niger.asset
+  uploadId: 824334

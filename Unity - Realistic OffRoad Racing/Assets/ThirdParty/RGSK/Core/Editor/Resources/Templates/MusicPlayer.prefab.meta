@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 602403ad64d13bf44a35e691494be0d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/MusicPlayer.prefab
+  uploadId: 824334

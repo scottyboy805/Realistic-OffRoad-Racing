@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1af9fc1d5cd43b946818657d768a3085
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Core/Misc/UIScreenFader.cs
+  uploadId: 824334

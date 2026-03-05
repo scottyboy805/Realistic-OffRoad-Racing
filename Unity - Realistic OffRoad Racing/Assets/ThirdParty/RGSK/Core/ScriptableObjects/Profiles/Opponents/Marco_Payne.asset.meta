@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 425e29ff59534724ea68ffc657956153
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Profiles/Opponents/Marco_Payne.asset
+  uploadId: 824334

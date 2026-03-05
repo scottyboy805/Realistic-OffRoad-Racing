@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be64707b85b60b74abec7fa9c78285db, type: 3}
+  m_Name: AIBehaviour_Grid
+  m_EditorClassIdentifier: 
+  displayName: 
+  description: 
+  targetApproachAction: 0
+  throttleSensitivity: 0
+  brakeSensitivity: 0
+  steerSensitivity: 0
+  speedOverride: 0
+  cautiousSpeedFactor: 0
+  spinCautionAmount: 0
+  canUseBoost: 0
+  canAvoid: 0
+  keepWithinRouteWidth: 1
+  avoidImpactTime: 2
+  obstacleSlowDownDistance: 10
+  canRecover: 0

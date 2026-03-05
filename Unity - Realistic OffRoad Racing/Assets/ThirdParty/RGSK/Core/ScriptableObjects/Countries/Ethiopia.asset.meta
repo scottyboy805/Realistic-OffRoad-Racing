@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 768931cf1727a7a4eb7a93f337fad744
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Ethiopia.asset
+  uploadId: 824334

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c54a7ec738bdf41bd8eaaa02d95c75, type: 3}
+  m_Name: BoardLayout_Endurance
+  m_EditorClassIdentifier: 
+  title: Results
+  raceTypes:
+  - {fileID: 11400000, guid: 1d0e599fc3ffee74fa39132d095209b3, type: 2}
+  items:
+  - name: Pos
+    cellType: 0
+    cellValue: 4
+    header: Pos
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 514
+    preferredWidth: 50
+    preferredHeight: 0
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: Country
+    cellType: 1
+    cellValue: 1
+    header: 
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 50
+    preferredHeight: 40
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: Entrant
+    cellType: 0
+    cellValue: 0
+    header: Entrant
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 300
+    preferredHeight: 0
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: VehicleLogo
+    cellType: 1
+    cellValue: 3
+    header: 
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 50
+    preferredHeight: 40
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: VehicleName
+    cellType: 0
+    cellValue: 2
+    header: Vehicle
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 0
+    preferredHeight: 0
+    flexibleWidth: 1
+    flexibleHeight: 0
+  - name: Total
+    cellType: 0
+    cellValue: 12
+    header: Time
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 0
+    preferredHeight: 0
+    flexibleWidth: 1
+    flexibleHeight: 0
+  - name: Laps
+    cellType: 0
+    cellValue: 11
+    header: Laps
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 0
+    preferredHeight: 0
+    flexibleWidth: 1
+    flexibleHeight: 0
+  - name: Distance
+    cellType: 0
+    cellValue: 8
+    header: Distance
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 0
+    preferredHeight: 0
+    flexibleWidth: 1
+    flexibleHeight: 0
+  miniItems:
+  - name: Pos
+    cellType: 0
+    cellValue: 4
+    header: Pos
+    font: {fileID: 11400000, guid: e339066c2f709ae4181ec5bc5e46646a, type: 2}
+    fontSize: 20
+    alignment: 514
+    preferredWidth: 50
+    preferredHeight: 0
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: Country
+    cellType: 1
+    cellValue: 1
+    header: 
+    font: {fileID: 0}
+    fontSize: 0
+    alignment: 513
+    preferredWidth: 35
+    preferredHeight: 0
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: Entrant
+    cellType: 0
+    cellValue: 0
+    header: Entrant
+    font: {fileID: 0}
+    fontSize: 20
+    alignment: 513
+    preferredWidth: 300
+    preferredHeight: 0
+    flexibleWidth: 0
+    flexibleHeight: 0
+  - name: Value
+    cellType: 0
+    cellValue: 17
+    header: 
+    font: {fileID: 0}
+    fontSize: 18
+    alignment: 516
+    preferredWidth: 200
+    preferredHeight: 0
+    flexibleWidth: 0
+    flexibleHeight: 0

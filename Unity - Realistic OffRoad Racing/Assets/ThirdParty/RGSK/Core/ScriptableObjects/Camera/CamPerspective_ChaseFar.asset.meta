@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f72269c87f542ac419a4f945c0fa3a94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Camera/CamPerspective_ChaseFar.asset
+  uploadId: 824334

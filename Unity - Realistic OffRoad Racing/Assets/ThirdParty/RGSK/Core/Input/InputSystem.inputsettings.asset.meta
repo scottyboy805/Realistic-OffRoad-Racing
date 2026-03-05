@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 486ce4ed17b1d094a9aff54865f56141
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Input/InputSystem.inputsettings.asset
+  uploadId: 824334

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 253033f5eeedabb41933a4a36e4cb6cb, type: 3}
+  m_Name: DriftSettings_Default
+  m_EditorClassIdentifier: 
+  minSpeed: 50
+  minAngle: 20
+  pointsPerSecond: 1500
+  completeWaitTime: 2
+  failCollisionForce: 5
+  failSpeed: 10
+  checkForValidDistance: 1
+  multiplierIncreaseRate: 0.5
+  multiplierDecreaseRate: 0.1
+  multiplierIncrementValue: 0.1
+  maxMultiplierValue: 10
+  messages:
+  - message: Good Drift!
+    points: 2000
+  - message: Great Drift!
+    points: 5000
+  - message: Awesome Drift!
+    points: 8000
+  - message: Amazing Drift!
+    points: 10000
+  - message: Super Drift!
+    points: 15000
+  - message: Epic Drift!
+    points: 20000
+  - message: Legendary Drift!
+    points: 30000

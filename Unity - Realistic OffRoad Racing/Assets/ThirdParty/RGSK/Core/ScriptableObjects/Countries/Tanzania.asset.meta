@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b20ec8ea8d218149ba22d25b4f07d4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Tanzania.asset
+  uploadId: 824334

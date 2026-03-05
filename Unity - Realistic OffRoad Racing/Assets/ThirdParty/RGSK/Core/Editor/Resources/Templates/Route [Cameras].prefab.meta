@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33b2d0674a1149842a793a55829372bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/Route [Cameras].prefab
+  uploadId: 824334

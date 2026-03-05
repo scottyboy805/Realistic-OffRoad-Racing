@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92874cf81b1c64247908899cb8028536
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Cocos (Keeling) Islands.asset
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6177cb07be25f848b49f64d2d5e22d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/AI/RaceBehaviours/AIBehaviour_RollingStart.asset
+  uploadId: 824334

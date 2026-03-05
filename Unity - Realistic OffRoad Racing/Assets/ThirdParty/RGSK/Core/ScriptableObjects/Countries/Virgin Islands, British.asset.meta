@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a7500967c0964b49bfec296c10b9e60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Virgin Islands, British.asset
+  uploadId: 824334

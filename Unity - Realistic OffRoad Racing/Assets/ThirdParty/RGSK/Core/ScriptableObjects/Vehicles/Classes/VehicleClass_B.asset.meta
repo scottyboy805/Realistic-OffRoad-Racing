@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8b2560354e85e0428989a600381db67
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Vehicles/Classes/VehicleClass_B.asset
+  uploadId: 824334

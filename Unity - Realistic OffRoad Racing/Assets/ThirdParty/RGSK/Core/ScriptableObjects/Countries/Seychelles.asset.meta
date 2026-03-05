@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76c73cfaa52fed44ea57440172b4904c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Seychelles.asset
+  uploadId: 824334

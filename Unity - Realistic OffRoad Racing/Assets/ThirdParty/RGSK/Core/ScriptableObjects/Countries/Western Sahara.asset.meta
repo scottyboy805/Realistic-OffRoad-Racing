@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce618d1c0ff0b3a4185bcaf0b1a9264d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Western Sahara.asset
+  uploadId: 824334

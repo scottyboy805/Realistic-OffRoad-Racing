@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 426f6312facdee64c8d674ab8e9fb263
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/RaceInitializer.prefab
+  uploadId: 824334

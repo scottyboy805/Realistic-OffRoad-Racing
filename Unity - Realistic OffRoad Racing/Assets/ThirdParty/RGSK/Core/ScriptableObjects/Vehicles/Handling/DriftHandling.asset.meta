@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a0880f1632b38e4da070086f2b79f44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Vehicles/Handling/DriftHandling.asset
+  uploadId: 824334

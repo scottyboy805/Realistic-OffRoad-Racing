@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9665e60ec7e71d64ab797231a265ea77
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/DriverRig.prefab
+  uploadId: 824334

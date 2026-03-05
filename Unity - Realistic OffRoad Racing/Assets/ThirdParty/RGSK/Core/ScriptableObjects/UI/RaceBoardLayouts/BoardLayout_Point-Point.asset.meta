@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d740a562f6679a4b93878f555dfbeff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/UI/RaceBoardLayouts/BoardLayout_Point-Point.asset
+  uploadId: 824334

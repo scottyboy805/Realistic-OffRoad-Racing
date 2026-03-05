@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8e0820a0744434ba70ece3b35c9f9b, type: 3}
+  m_Name: CameraSettings_TopDown
+  m_EditorClassIdentifier: 
+  perspectives:
+  - {fileID: 11400000, guid: cad86cb1b5c2a6d4294f6286ad90f934, type: 2}
+  cycleToRouteCameras: 0

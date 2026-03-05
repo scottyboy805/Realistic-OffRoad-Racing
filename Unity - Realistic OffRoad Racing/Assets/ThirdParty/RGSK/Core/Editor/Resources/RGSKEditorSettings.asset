@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed48f717e926714b90f84504e7558ea, type: 3}
+  m_Name: RGSKEditorSettings
+  m_EditorClassIdentifier: 
+  raceInitTemplate: {fileID: 6108871016136382651, guid: 426f6312facdee64c8d674ab8e9fb263, type: 3}
+  cameraManagerTemplate: {fileID: 1694802333510856249, guid: c6548e3d1d92b794cb2e49605cdb6e98, type: 3}
+  trackTemplate: {fileID: 6958539639599702192, guid: cb953e36e97ab97489b9d1111559ec88, type: 3}
+  musicTemplate: {fileID: 589243373387574122, guid: 602403ad64d13bf44a35e691494be0d7, type: 3}
+  checkpointRoute: {fileID: 7816234884371058544, guid: fb607e418d0930b499b1b02790a7825a, type: 3}
+  aiRoute: {fileID: 4931030668653569263, guid: 7aeee0bfbf624ad469e217fd551e626f, type: 3}
+  standingStartGridTemplate: {fileID: 2192797704985542660, guid: 30a24fe3a165fec41a537e59636505e5, type: 3}
+  rollingStartGridTemplate: {fileID: 2192797704985542660, guid: f293a15801cff6f4488bcf703a2171d6, type: 3}
+  cinematicCameraTemplate: {fileID: 6609056775346198034, guid: 33b2d0674a1149842a793a55829372bc, type: 3}
+  vehicleParentTemplate: {fileID: 7336965897263445738, guid: 62648506e3446b145b24220614b7a2e4, type: 3}
+  camerasTargetTemplate: {fileID: 479052350124471394, guid: b7df6c6c3121c73458d19233b094c580, type: 3}
+  vehicleSeatTemplate: {fileID: 1271118900996043417, guid: 5506900917483494ba1e5052527dedfa, type: 3}
+  vehicleDriverRigTemplate: {fileID: 8729502990510335011, guid: 9665e60ec7e71d64ab797231a265ea77, type: 3}
+  vehicleLightsTemplate: {fileID: 6515641162908190061, guid: 0f29a3be79dc44d4f823e0e26b0abab8, type: 3}
+  vehicleDashboardTemplate: {fileID: 7971730573314763711, guid: 00633e0d4951d2a44aefbb0741157aa3, type: 3}
+  vehicleWheelTemplate: {fileID: 6411614118305735335, guid: 18117a726fca4e44d96ca53b812136fa, type: 3}
+  vehicleWheelVisualTemplate: {fileID: 837527140773206236, guid: 4e296483be4429b47938ff6f0a0f9e2c, type: 3}
+  boundingBoxTemplate: {fileID: 5831836673747473291, guid: 6eafba46923d2844caae0f269621586d, type: 3}
+  defaultCameraPerspectives: []
+  lookAtCameraTemplate: {fileID: 3289394992980800393, guid: 87ab4db2946199446bf071f40aa5abfc, type: 3}
+  fixedCameraTemplate: {fileID: 3289394992980800393, guid: 67298824898576d4f98474470afe6aba, type: 3}
+  dollyCameraTemplate: {fileID: 2999488815298786717, guid: ff6e1a4e6538cc64ea120f1773fa54ce, type: 3}
+  welcomeHeader: {fileID: 2800000, guid: 011a968532ff9e447800758f79c752de, type: 3}
+  aiRouteSpeedzoneToolIcon: {fileID: 2800000, guid: 2ae70e8ddacb0c04d825b2cda6090d38, type: 3}
+  aiRouteRacinglineToolIcon: {fileID: 2800000, guid: dc44309bb4a318641ab11a21c76e006c, type: 3}
+  greenIcon: {fileID: 2800000, guid: 35ea3e5478607b74783f00238937e5cd, type: 3}
+  redIcon: {fileID: 2800000, guid: 3e212f8fa05c84b48b3fc385832200bc, type: 3}
+  yellowIcon: {fileID: 2800000, guid: c8c14c9e15efb02428838763908a7067, type: 3}
+  nullIcon: {fileID: 2800000, guid: c46456591b540d34c9b0b9634fe2cad2, type: 3}
+  menuIcon: {fileID: 2800000, guid: f2aad998271d4e04ea054b1a8d787d95, type: 3}
+  racingLineColor: {r: 0, g: 0.011764765, b: 1, a: 1}
+  aiSpeedzoneColor: {r: 0, g: 0.84430647, b: 1, a: 1}
+  cornerColor: {r: 1, g: 0.5882353, b: 0, a: 1}
+  standingStartGridColor: {r: 1, g: 0, b: 0, a: 0.39215687}
+  rollingStartGridColor: {r: 0, g: 0, b: 1, a: 0.39215687}
+  showRacingLineGizmos: 1
+  showSpeedZoneGizmos: 1
+  demoScenes:
+  - sceneAsset: {fileID: 102900000, guid: e545c939de417684182632c7510c3aa8, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/DemoHub.unity
+  - sceneAsset: {fileID: 102900000, guid: 4d2c861965cf7424ebb25b28b27b7bd6, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Loading.unity
+  - sceneAsset: {fileID: 102900000, guid: d17fa7566c9fce643aa55112ad6d1a23, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/AI.unity
+  - sceneAsset: {fileID: 102900000, guid: 461f8403118aacf459e2c4616e1f4a62, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Drift.unity
+  - sceneAsset: {fileID: 102900000, guid: 2ecfa3d5f123a1e42b130f8689db63d0, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Drag.unity
+  - sceneAsset: {fileID: 102900000, guid: c949799b7f3d40640991a80d4eaa5748, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Replay.unity
+  - sceneAsset: {fileID: 102900000, guid: b3cb117daad4f844cb974370b24ed818, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Ghost.unity
+  - sceneAsset: {fileID: 102900000, guid: d0f6fd3e2c448c54288dea2a28d18c68, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Playground.unity
+  - sceneAsset: {fileID: 102900000, guid: 564cb78f0095ab043a10866af6382ea6, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/ScoreAttack.unity
+  - sceneAsset: {fileID: 102900000, guid: 4e7d9cf5c4e69ee4e9cf383ae8dd1d60, type: 3}
+    scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/TopDown.unity
+  - sceneAsset: {fileID: 102900000, guid: 089d76328873f8748b2efa76482c5fcb, type: 3}
+    scenePath: Assets/RGSK/Demos/CompleteDemos/Traditional/Scenes/_MainMenu.unity
+  - sceneAsset: {fileID: 102900000, guid: c101d9b6f3fef60438dbc2a2e6014ea2, type: 3}
+    scenePath: Assets/RGSK/Demos/CompleteDemos/Traditional/Scenes/MeadowParkRaceway.unity
+  - sceneAsset: {fileID: 102900000, guid: 45c1f0c946fdd16449c64a66aac2f9af, type: 3}
+    scenePath: Assets/RGSK/Demos/CompleteDemos/Traditional/Scenes/MeadowParkDragway.unity

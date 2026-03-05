@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 761cf57ea73e51f4390776ed568eaf53
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Vehicles/Handling/GripHandling.asset
+  uploadId: 824334

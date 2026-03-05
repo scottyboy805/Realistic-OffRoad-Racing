@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff70dccbefb2ad74da048a4edd0685ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/British Indian Ocean Territory.asset
+  uploadId: 824334

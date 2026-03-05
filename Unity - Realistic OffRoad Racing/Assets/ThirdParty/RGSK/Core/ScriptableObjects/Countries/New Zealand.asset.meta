@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 623a412525439634ea9d548991fe7712
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/New Zealand.asset
+  uploadId: 824334

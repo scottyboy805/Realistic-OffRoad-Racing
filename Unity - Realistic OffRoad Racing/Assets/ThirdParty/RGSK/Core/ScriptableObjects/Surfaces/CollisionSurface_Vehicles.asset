@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 478aa0b0525e54f47b932fe10fcb0c3b, type: 3}
+  m_Name: CollisionSurface_Vehicles
+  m_EditorClassIdentifier: 
+  physicMaterial: {fileID: 13400000, guid: d4b512a795d6ac04bb43817ad1fb8d49, type: 2}
+  hitSounds:
+  - {fileID: 8300000, guid: cb86d7fe39cc39f4aad64bec807392e0, type: 3}
+  - {fileID: 8300000, guid: feaf447265ef5f14b803177eba2d5ea2, type: 3}
+  scrapeSound: {fileID: 8300000, guid: 88b2d2dbb860ed343b25785877c960f4, type: 3}
+  hitParticles: {fileID: 198000010900340656, guid: f47c5b74766683145996b38a3a7530cc, type: 3}

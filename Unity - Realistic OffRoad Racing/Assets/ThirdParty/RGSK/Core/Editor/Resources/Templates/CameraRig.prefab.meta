@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7df6c6c3121c73458d19233b094c580
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/CameraRig.prefab
+  uploadId: 824334

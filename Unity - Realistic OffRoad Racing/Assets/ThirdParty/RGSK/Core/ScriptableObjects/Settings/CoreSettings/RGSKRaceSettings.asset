@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f421998fdedfb44a754eecb4fbfef0, type: 3}
+  m_Name: RGSKRaceSettings
+  m_EditorClassIdentifier: Assembly-CSharp:RGSK:RGSKRaceSettings
+  raceTypes:
+  - {fileID: 11400000, guid: 0a603b49d70f77b4abd3883379f0c57b, type: 2}
+  - {fileID: 11400000, guid: 504c54538ee66bc43baf1d0ab3fbd007, type: 2}
+  - {fileID: 11400000, guid: 05e39568fbed9c34a8310d02509aa21d, type: 2}
+  - {fileID: 11400000, guid: 1d0e599fc3ffee74fa39132d095209b3, type: 2}
+  - {fileID: 11400000, guid: d37c935ca2ef3f940a6ac1dbabf9b75e, type: 2}
+  - {fileID: 11400000, guid: 2e10a2ebd576c9c4c928a7d58a7e5d63, type: 2}
+  - {fileID: 11400000, guid: 4c00bef35c7f88041bcafaf695a2f78a, type: 2}
+  - {fileID: 11400000, guid: 1d54f227789f30746b5ccd8f9ff4b65d, type: 2}
+  - {fileID: 11400000, guid: e00eac64c702dce4fade3cf3ee994dd7, type: 2}
+  - {fileID: 11400000, guid: 2d936e088fdf20d4c993fdf6c1c46cc2, type: 2}
+  - {fileID: 11400000, guid: fd823b38157ce004095aabbba54b47c2, type: 2}
+  - {fileID: 11400000, guid: 8a73a4345cf4eed44aa77784ebeb01d2, type: 2}
+  - {fileID: 11400000, guid: 1242a164626803b4f9c6e1164868d48f, type: 2}
+  - {fileID: 11400000, guid: effe79930715a5b4f80f4b565d7ecac3, type: 2}
+  - {fileID: 11400000, guid: 41776d73069e90f41b0b0827c9a8e83e, type: 2}
+  defaultChampionshipPoints: 19000000120000000f0000000c0000000a0000000800000006000000040000000200000001000000
+  enableReplay: 1
+  checkpointGate: {fileID: 693805562176916337, guid: 5f8c157f3429ac84ba9b500e75846a45, type: 3}
+  showCheckpointGates: 1
+  preRaceMusic: {fileID: 11400000, guid: a5f65a081f8567f4f87a32bcb89821b4, type: 2}
+  raceMusic: {fileID: 11400000, guid: 3a31c4f00ea06934d874a3556081c31b, type: 2}
+  postRaceMusic: {fileID: 11400000, guid: 4458beb7b44b0df4281c6c76cb6f093e, type: 2}
+  checkpointHitSound: checkpoint
+  raceFinishSound: race_finish
+  raceDisqualifySound: race_dq
+  dnfTimerStartMode: 1
+  dnfTimeLimit: 30
+  cinematicCameraStates: 8
+  spectatorModeCinematicCameraStates: 30
+  rollingStartSpeedLimitSolo: -1
+  rollingStartSpeedLimitMultiple: 80
+  ghostDisqualifiedCompetitors: 1
+  skipPreRaceState: 0
+  wrongwayTracking: 1

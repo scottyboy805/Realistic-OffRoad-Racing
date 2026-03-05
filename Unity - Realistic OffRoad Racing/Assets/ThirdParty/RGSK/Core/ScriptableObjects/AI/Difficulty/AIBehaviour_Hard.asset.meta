@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33b60c8ec0729e14c84ed49f94898c5f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/AI/Difficulty/AIBehaviour_Hard.asset
+  uploadId: 824334

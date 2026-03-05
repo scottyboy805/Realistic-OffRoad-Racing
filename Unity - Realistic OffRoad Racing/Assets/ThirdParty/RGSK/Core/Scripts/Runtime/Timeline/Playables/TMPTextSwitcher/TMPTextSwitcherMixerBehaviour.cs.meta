@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 05883ca318aea4ab39a3c06586806fb9
+timeCreated: 1496915579
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/Timeline/Playables/TMPTextSwitcher/TMPTextSwitcherMixerBehaviour.cs
+  uploadId: 824334

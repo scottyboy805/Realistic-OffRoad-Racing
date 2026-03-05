@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f2f2ff5cbb0cb248ae9e53bc15ca2b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/RenderPipeline/URP/URP_GlobalSettings.asset
+  uploadId: 824334

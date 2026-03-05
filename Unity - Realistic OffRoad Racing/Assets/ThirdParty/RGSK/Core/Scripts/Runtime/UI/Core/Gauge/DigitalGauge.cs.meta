@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c330e48a73f8a2e47a0db41eb93f5f15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Core/Gauge/DigitalGauge.cs
+  uploadId: 824334

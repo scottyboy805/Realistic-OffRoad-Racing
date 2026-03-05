@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4b33da6c22b1db044a6c38701ae17387
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/Integrations/ASHVP/ASHVPSupport.cs
+  uploadId: 824334

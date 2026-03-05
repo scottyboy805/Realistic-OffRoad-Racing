@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8e9fac0e33fee54890422442c9b8a88
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Wallis and Futuna.asset
+  uploadId: 824334

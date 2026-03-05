@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb9501ab9fecabf4995ac6ddb8798ae0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Profiles/Opponents/Juan_Carlos.asset
+  uploadId: 824334

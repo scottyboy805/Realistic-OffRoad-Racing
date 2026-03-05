@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e296483be4429b47938ff6f0a0f9e2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Editor/Resources/Templates/WheelVisualTemplate.prefab
+  uploadId: 824334

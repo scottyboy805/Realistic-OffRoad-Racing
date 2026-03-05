@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1bbf4ad75a2bbf64a8d1e40de0d40a6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Misc/ReleaseInputFieldOnGamepad.cs
+  uploadId: 824334

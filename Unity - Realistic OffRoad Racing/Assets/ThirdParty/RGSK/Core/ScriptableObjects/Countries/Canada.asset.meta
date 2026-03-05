@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f08c55cd4e2c9764b935c9d7887fa6b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Countries/Canada.asset
+  uploadId: 824334

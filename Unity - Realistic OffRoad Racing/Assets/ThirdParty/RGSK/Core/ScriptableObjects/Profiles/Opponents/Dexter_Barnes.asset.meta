@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92a58bf2a295e2a44b9e289b9495d99e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/ScriptableObjects/Profiles/Opponents/Dexter_Barnes.asset
+  uploadId: 824334
