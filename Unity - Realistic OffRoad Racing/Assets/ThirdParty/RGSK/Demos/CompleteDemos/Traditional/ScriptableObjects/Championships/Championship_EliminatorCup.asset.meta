@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 575ed3517eb0e0943a4ecff6fd8945c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Championships/Championship_EliminatorCup.asset
+  uploadId: 824334

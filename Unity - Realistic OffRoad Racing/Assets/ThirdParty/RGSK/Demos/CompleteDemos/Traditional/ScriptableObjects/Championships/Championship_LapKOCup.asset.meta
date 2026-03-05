@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd9c6851d160a1a4ca11bd0406970f75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Championships/Championship_LapKOCup.asset
+  uploadId: 824334

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1aecb3aa35fa784c95dfc3457392a4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Terminal/CommandTerminal.prefab
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b47162d20400dee49ac23b2c21e90f15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/MeadowParkRaceway/Materials/Atlas-01_Yellow.mat
+  uploadId: 824334

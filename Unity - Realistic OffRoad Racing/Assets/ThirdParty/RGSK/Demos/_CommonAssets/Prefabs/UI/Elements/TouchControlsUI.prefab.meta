@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef914715aaf0c78448c9eb70b293d17f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Elements/TouchControlsUI.prefab
+  uploadId: 824334

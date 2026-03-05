@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3349fc02d104e2b458470ec533f51c16
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Materials/Fireball.mat
+  uploadId: 824334

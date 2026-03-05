@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2dcb11a4c31d6cb448c2b33d3cf41d23
+timeCreated: 1531895621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/MeadowParkRaceway/Materials/Trees-01.mat
+  uploadId: 824334

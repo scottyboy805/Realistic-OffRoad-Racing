@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e010d514ffc31bb4bb9e781d1943505e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Materials/LightRedEmissive.mat
+  uploadId: 824334

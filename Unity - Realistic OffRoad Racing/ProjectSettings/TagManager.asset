@@ -21,10 +21,10 @@ TagManager:
   - Medium
   - Large
   - Minimap
-  - 
-  - 
-  - 
-  - 
+  - RCCP_Vehicle
+  - RCCP_WheelCollider
+  - RCCP_DetachablePart
+  - RCCP_Prop
   - 
   - 
   - 

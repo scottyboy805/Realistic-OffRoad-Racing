@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4271608f50429a44b40becc23333c13, type: 3}
+  m_Name: Event_LastManStanding
+  m_EditorClassIdentifier: 
+  id:
+    value: b94eaec8-2f1e-471e-86d0-bd6a410a06d2
+  objectName: Last Man Standing
+  description: Cross the line each lap ahead of the competition or risk disqualification
+    in this lap knockout race!
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: 12c6c98827abfd149b8d1d087a5d373e, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  ownedMode: 0
+  ownedPrice: 0
+  sessionType: 0
+  raceType: {fileID: 11400000, guid: 504c54538ee66bc43baf1d0ab3fbd007, type: 2}
+  startMode: 0
+  lapCount: 3
+  opponentDifficulty:
+    index: 1
+  playerGridStartMode: 0
+  playerStartPosition: 0
+  sessionTimeLimit: 30
+  enableGhost: 1
+  ghostOffset: 0
+  enableSlipstream: 1
+  enableCatchup: 1
+  disableCollision: 0
+  spectatorMode: 0
+  entrants: []
+  autoPopulateEntrantOptions:
+    autoPopulatePlayer: 1
+    autoPopulateOpponents: 1
+    opponentCount: 3
+    opponentClassOptions: 2
+    opponentVehicleClass: {fileID: 0}
+  targetScores: []
+  raceRewards:
+  - currency: 5000
+    xp: 4000
+    items: []
+  track: {fileID: 11400000, guid: 3dfc6a39d262fa741a3f25a62684ccf1, type: 2}
+  saveRecords: 1

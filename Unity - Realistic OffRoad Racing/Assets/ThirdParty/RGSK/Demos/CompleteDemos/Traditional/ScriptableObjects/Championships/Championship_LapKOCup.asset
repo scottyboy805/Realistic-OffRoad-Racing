@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41e9e2a68cba8e4bbb6649fe4046d3a, type: 3}
+  m_Name: Championship_LapKOCup
+  m_EditorClassIdentifier: 
+  id:
+    value: 639ed93d-0be8-455c-9cbb-7a3011bb3690
+  objectName: Lap Knockout Cup
+  description: 
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: f4c9c45654f5a1348bd3e1840731fa1a, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  ownedMode: 0
+  ownedPrice: 0
+  rounds:
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: 3dfc6a39d262fa741a3f25a62684ccf1, type: 2}
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: 4b0689e74c9a883468d9cdf718b4e02f, type: 2}
+  points: 
+  entrants: []
+  autoPopulateEntrantOptions:
+    autoPopulatePlayer: 1
+    autoPopulateOpponents: 1
+    opponentCount: 3
+    opponentClassOptions: 2
+    opponentVehicleClass: {fileID: 0}
+  rewards:
+  - currency: 30000
+    xp: 5000
+    items: []
+  - currency: 20000
+    xp: 3000
+    items: []
+  - currency: 10000
+    xp: 1500
+    items: []
+  raceType: {fileID: 11400000, guid: 504c54538ee66bc43baf1d0ab3fbd007, type: 2}
+  spawnMode: 2
+  reverseSpawnOrder: 1
+  opponentDifficulty:
+    index: 1
+  enableSlipstream: 1
+  enableCatchup: 1
+  disableCollision: 0
+  spectatorMode: 0

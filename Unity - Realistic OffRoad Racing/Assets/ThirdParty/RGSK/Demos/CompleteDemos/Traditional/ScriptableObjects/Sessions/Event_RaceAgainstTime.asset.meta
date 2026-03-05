@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7d173a70b7c77c49b08b75f11e32500
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Sessions/Event_RaceAgainstTime.asset
+  uploadId: 824334

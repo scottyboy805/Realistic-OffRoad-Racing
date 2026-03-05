@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4271608f50429a44b40becc23333c13, type: 3}
+  m_Name: Event_BeatTheClock
+  m_EditorClassIdentifier: 
+  id:
+    value: 6d4db455-2957-42ad-a749-3e8f06198dee
+  objectName: Beat The Clock
+  description: It's just you against the clock in this time attack race!
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: 8f7d0eafb23ed4c40a77a8df4954123d, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  ownedMode: 0
+  ownedPrice: 0
+  sessionType: 1
+  raceType: {fileID: 11400000, guid: 2d936e088fdf20d4c993fdf6c1c46cc2, type: 2}
+  startMode: 0
+  lapCount: 1
+  opponentDifficulty:
+    index: 0
+  playerGridStartMode: 0
+  playerStartPosition: 0
+  sessionTimeLimit: 60
+  enableGhost: 1
+  ghostOffset: 0
+  enableSlipstream: 1
+  enableCatchup: 0
+  disableCollision: 0
+  spectatorMode: 0
+  entrants:
+  - prefab: {fileID: 1006786389525610645, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    profile: {fileID: 0}
+    color: {r: 0.23028658, g: 0.23028658, b: 0.7075472, a: 1}
+    livery: {fileID: 0}
+    colorSelectMode: 1
+    isPlayer: 1
+    instanceID: 0
+    championshipPoints: 0
+  autoPopulateEntrantOptions:
+    autoPopulatePlayer: 0
+    autoPopulateOpponents: 0
+    opponentCount: 3
+    opponentClassOptions: 2
+    opponentVehicleClass: {fileID: 0}
+  targetScores:
+  - 68
+  - 72
+  - 80
+  raceRewards: []
+  track: {fileID: 11400000, guid: 3dfc6a39d262fa741a3f25a62684ccf1, type: 2}
+  saveRecords: 1

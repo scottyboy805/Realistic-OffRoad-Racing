@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 677830eee8173674eae2187020a8ac51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Scenes/_MainMenu/LightingData.asset
+  uploadId: 824334

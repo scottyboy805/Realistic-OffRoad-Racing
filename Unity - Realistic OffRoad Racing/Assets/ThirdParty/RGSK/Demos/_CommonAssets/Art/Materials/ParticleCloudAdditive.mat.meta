@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ed4e0d0536e0f34d86640561580b418
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Materials/ParticleCloudAdditive.mat
+  uploadId: 824334

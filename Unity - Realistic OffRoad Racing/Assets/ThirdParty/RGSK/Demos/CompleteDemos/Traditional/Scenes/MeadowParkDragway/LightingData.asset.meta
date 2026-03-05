@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 794c7b0aafec86b42a5aeb5bbada46cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Scenes/MeadowParkDragway/LightingData.asset
+  uploadId: 824334

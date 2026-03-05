@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11e35b72d7d4a674c97c2d74ed7d5cc2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/RaceTypeLayouts/RaceUILayout_AverageSpeed.prefab
+  uploadId: 824334

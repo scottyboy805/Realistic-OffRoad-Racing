@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87816e96d8571f443a182b20cddcbd6e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Animations/UI/Clips/NotificationSlideLeft_Exit.anim
+  uploadId: 824334

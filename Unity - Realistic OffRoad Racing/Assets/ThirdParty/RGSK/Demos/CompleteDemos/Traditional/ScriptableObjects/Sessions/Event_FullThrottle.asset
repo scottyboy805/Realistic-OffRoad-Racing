@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4271608f50429a44b40becc23333c13, type: 3}
+  m_Name: Event_FullThrottle
+  m_EditorClassIdentifier: 
+  id:
+    value: 6513f2d7-de32-4987-bbf2-136d44cb5e51
+  objectName: Full Throttle
+  description: Aim for maximum speed through each speedtrap to win this race!
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: f4c9c45654f5a1348bd3e1840731fa1a, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  ownedMode: 0
+  ownedPrice: 0
+  sessionType: 0
+  raceType: {fileID: 11400000, guid: 2e10a2ebd576c9c4c928a7d58a7e5d63, type: 2}
+  startMode: 0
+  lapCount: 1
+  opponentDifficulty:
+    index: 2
+  playerGridStartMode: 1
+  playerStartPosition: 100
+  sessionTimeLimit: 60
+  enableGhost: 1
+  ghostOffset: 0
+  enableSlipstream: 1
+  enableCatchup: 0
+  disableCollision: 0
+  spectatorMode: 0
+  entrants: []
+  autoPopulateEntrantOptions:
+    autoPopulatePlayer: 1
+    autoPopulateOpponents: 1
+    opponentCount: 4
+    opponentClassOptions: 2
+    opponentVehicleClass: {fileID: 0}
+  targetScores:
+  - 1000
+  raceRewards:
+  - currency: 3000
+    xp: 2000
+    items: []
+  track: {fileID: 11400000, guid: 3dfc6a39d262fa741a3f25a62684ccf1, type: 2}
+  saveRecords: 1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c78a1c38fc7a51e49a28734bc80bec0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Timeline/Sequences/Sequence_RaceCountdownSignal.playable
+  uploadId: 824334

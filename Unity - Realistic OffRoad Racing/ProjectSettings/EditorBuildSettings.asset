@@ -6,55 +6,55 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/0_Intro_Splash.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/0_Intro_Splash.unity
     guid: d40e7e4c6e173a6488d865e600c0c105
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/0_Garage.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/0_Garage.unity
     guid: d51e9094e0e413f41bcdd5715a359ad3
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/1_Stadium_Night.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/1_Stadium_Night.unity
     guid: 2a50262859d774e4680ee9443d93c722
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/1_Stadium_Rain.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/1_Stadium_Rain.unity
     guid: 0b6914a993f39654e9e6f618baeb9343
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/1_Stadium_Sunny.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/1_Stadium_Sunny.unity
     guid: a9b180a15034ac74cbc45966ff95aeb9
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/2_Snow_Night.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/2_Snow_Night.unity
     guid: 233a28ab40233e94b822b73ebe1a47ea
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/2_Snow_Rain.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/2_Snow_Rain.unity
     guid: 31a9f251fe2a8ab4aaaec24b46b9ad62
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/2_Snow_Sunny.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/2_Snow_Sunny.unity
     guid: 3cadda2c00ac2e54e94267771751eae3
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/3_Desert_Night.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/3_Desert_Night.unity
     guid: a17d250ef6812d14eb6f142149b67321
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/3_Desert_Rain.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/3_Desert_Rain.unity
     guid: 2d156d59e213a90489d49cf1d91cd056
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/3_Desert_Sunny.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/3_Desert_Sunny.unity
     guid: 44d5e48eae5a5a54484f16fd8dba0066
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/4_Beach_Night.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/4_Beach_Night.unity
     guid: 976eae40ebc4f054799c6d59af30245c
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/4_Beach_Rain.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/4_Beach_Rain.unity
     guid: 787fe5f3961a5654f8e496aaf82043ae
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/4_Beach_Sunny.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/4_Beach_Sunny.unity
     guid: a2fcc081b90d5344dbd8fe6c89b8ecfb
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/5_Jungle_Sunny.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/5_Jungle_Sunny.unity
     guid: dbedb18bf3b071343891cd3969aa8287
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/5_Jungle_Night.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/5_Jungle_Night.unity
     guid: 9d4b8ea4478935740969d484c71c8832
   - enabled: 1
-    path: Assets/Off_Road_Racing/Scene/5_Jungle_Rain.unity
+    path: Assets/ThirdParty/Off_Road_Racing/Scene/5_Jungle_Rain.unity
     guid: 231d2dae5ff4e3a4a919ecf22e815703
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}

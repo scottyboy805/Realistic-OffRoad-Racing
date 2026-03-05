@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ab717a981419e6438c302f6aab9714c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Materials/Cone.mat
+  uploadId: 824334

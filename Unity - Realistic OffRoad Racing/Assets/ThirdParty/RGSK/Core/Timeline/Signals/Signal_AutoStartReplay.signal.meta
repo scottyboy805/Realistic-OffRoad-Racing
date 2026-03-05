@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f45ed2bee4ef0484ca4ce3759650be7b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Timeline/Signals/Signal_AutoStartReplay.signal
+  uploadId: 824334

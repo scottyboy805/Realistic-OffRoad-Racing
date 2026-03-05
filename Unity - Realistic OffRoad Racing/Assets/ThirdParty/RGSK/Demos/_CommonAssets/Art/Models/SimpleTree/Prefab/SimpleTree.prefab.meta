@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6ebe59fe5c1b774795384e7206d705b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Models/SimpleTree/Prefab/SimpleTree.prefab
+  uploadId: 824334

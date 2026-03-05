@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9a1d6ba03235ee54491d3acfc7ee990a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/Vehicle/TyremarkGenerator.cs
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c76b8ca3e2f9bf44b16151972449cba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Sessions/Event_ReadyYourEngines.asset
+  uploadId: 824334

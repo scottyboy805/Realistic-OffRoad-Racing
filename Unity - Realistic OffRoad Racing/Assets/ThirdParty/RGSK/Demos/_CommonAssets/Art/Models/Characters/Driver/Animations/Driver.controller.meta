@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e3ebea66dd1a3b4099d6cdf1c3b4355
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Models/Characters/Driver/Animations/Driver.controller
+  uploadId: 824334

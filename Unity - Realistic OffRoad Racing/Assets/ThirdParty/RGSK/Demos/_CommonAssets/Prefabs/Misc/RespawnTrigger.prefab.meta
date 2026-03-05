@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c0954ed7fec5d4478217ec593f6c909
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/Misc/RespawnTrigger.prefab
+  uploadId: 824334

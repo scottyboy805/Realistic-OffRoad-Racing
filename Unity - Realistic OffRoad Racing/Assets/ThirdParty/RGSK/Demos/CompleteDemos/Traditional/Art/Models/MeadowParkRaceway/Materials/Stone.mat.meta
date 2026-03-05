@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 528b41ffffb691a4c8e5a42ee30306b4
+timeCreated: 1532961119
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/MeadowParkRaceway/Materials/Stone.mat
+  uploadId: 824334

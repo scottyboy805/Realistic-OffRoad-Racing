@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 34ac2a027ca3b344283f28b61b504f96
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Notifications/Notification_Primary.prefab
+  uploadId: 824334

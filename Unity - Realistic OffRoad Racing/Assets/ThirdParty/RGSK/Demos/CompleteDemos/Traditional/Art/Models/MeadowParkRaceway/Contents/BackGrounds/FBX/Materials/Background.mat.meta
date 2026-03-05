@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 217ae544d9c9166458823edf92e4f3f5
+timeCreated: 1539451443
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/MeadowParkRaceway/Contents/BackGrounds/FBX/Materials/Background.mat
+  uploadId: 824334

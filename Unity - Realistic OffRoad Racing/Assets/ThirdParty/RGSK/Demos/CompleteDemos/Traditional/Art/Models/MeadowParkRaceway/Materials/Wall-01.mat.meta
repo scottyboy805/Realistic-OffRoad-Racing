@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8692061575f56bb45850d5cbc740a39d
+timeCreated: 1533887151
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/MeadowParkRaceway/Materials/Wall-01.mat
+  uploadId: 824334

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 564cb78f0095ab043a10866af6382ea6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonScenes/Showcase/ScoreAttack.unity
+  uploadId: 824334

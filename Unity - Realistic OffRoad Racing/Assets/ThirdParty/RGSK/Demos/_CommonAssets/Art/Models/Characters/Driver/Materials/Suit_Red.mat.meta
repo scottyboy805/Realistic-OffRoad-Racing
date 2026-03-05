@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62b342990f82bc54681bdf27c5ee1c73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Models/Characters/Driver/Materials/Suit_Red.mat
+  uploadId: 824334

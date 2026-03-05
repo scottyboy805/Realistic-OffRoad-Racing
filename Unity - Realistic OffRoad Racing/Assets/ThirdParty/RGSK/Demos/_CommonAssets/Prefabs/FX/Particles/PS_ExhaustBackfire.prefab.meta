@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51d0f99f92e5a294f880619eca63890b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/FX/Particles/PS_ExhaustBackfire.prefab
+  uploadId: 824334

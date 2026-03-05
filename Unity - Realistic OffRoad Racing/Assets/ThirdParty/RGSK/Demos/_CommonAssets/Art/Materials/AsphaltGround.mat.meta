@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 784335d60691b254ea8dfb871f9e3509
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Materials/AsphaltGround.mat
+  uploadId: 824334

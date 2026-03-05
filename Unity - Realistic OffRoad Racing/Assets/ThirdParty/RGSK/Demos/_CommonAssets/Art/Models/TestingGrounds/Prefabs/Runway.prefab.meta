@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b078d8cda75716643b15ab8a83e0ccf2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Models/TestingGrounds/Prefabs/Runway.prefab
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0dc0cef4c41838b4f853a4c365ff09d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Art/Materials/CheckpoinVisual.mat
+  uploadId: 824334

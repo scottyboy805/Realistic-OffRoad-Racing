@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb00647ac1a54af47bcbfd2ffb6b28d4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Boards/Race/RaceBoardEntryText.prefab
+  uploadId: 824334

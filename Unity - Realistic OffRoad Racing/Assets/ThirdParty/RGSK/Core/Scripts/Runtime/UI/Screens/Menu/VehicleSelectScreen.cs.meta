@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b551dd0cf5aa934e98b0c4f37a72a34
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Core/Scripts/Runtime/UI/Screens/Menu/VehicleSelectScreen.cs
+  uploadId: 824334

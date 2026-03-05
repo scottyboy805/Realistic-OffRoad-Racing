@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61407e2422b98dd4d9ace1aad22e4038
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Elements/ProximityArrowUI.prefab
+  uploadId: 824334

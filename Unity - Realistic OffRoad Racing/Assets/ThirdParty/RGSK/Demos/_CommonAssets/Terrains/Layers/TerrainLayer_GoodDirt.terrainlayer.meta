@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 023069eb3ac47014d882ba582f0e0fe2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Terrains/Layers/TerrainLayer_GoodDirt.terrainlayer
+  uploadId: 824334

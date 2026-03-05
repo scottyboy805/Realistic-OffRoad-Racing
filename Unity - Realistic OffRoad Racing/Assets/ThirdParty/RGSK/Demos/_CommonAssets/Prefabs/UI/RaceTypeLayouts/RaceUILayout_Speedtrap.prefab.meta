@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a50f130c21bab342bf07ba233adc3a5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/RaceTypeLayouts/RaceUILayout_Speedtrap.prefab
+  uploadId: 824334

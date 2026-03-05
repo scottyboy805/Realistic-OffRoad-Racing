@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf78bc58d3118474d82c7602e56b3825
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/ScriptableObjects/Sessions/RaceSession_DragShowcase.asset
+  uploadId: 824334

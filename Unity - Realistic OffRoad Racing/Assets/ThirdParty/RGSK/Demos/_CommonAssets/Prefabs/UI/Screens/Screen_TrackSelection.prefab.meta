@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 367dec62102f23c4da3a2ee8bbb9399b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Screens/Screen_TrackSelection.prefab
+  uploadId: 824334

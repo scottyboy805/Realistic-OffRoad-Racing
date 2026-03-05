@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41e9e2a68cba8e4bbb6649fe4046d3a, type: 3}
+  m_Name: Championship_DragCup
+  m_EditorClassIdentifier: 
+  id:
+    value: 052c6b1e-4967-4253-afac-99d6d1df7a3b
+  objectName: Drag Cup
+  description: 
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: 0d996fb97bff39c418ef3558c636b29d, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  ownedMode: 0
+  ownedPrice: 0
+  rounds:
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: b0e5e9e4c3e2db7429d25d49434a1066, type: 2}
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: b0e5e9e4c3e2db7429d25d49434a1066, type: 2}
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: b0e5e9e4c3e2db7429d25d49434a1066, type: 2}
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: 751c9af191e56644b8600c1f5b74aaf5, type: 2}
+  - startMode: 0
+    lapCount: 3
+    sessionTimeLimit: 60
+    track: {fileID: 11400000, guid: 751c9af191e56644b8600c1f5b74aaf5, type: 2}
+  points: 01000000
+  entrants:
+  - prefab: {fileID: 1006786389525610645, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    profile: {fileID: 11400000, guid: 714e53780ff86eb42b7b8ebe3ec5aba1, type: 2}
+    color: {r: 0, g: 0, b: 1, a: 0}
+    livery: {fileID: 0}
+    colorSelectMode: 1
+    isPlayer: 0
+    instanceID: 0
+    championshipPoints: 0
+  autoPopulateEntrantOptions:
+    autoPopulatePlayer: 1
+    autoPopulateOpponents: 0
+    opponentCount: 3
+    opponentClassOptions: 2
+    opponentVehicleClass: {fileID: 0}
+  rewards:
+  - currency: 10000
+    xp: 4000
+    items: []
+  - currency: 5000
+    xp: 1000
+    items: []
+  raceType: {fileID: 11400000, guid: 41776d73069e90f41b0b0827c9a8e83e, type: 2}
+  spawnMode: 0
+  reverseSpawnOrder: 0
+  opponentDifficulty:
+    index: 1
+  enableSlipstream: 1
+  enableCatchup: 0
+  disableCollision: 0
+  spectatorMode: 0

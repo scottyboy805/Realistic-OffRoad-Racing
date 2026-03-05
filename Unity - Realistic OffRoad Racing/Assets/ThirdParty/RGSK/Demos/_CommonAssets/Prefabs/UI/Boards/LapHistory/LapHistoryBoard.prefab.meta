@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc22e16bb0061ed48ae5e7f57f890c15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Boards/LapHistory/LapHistoryBoard.prefab
+  uploadId: 824334

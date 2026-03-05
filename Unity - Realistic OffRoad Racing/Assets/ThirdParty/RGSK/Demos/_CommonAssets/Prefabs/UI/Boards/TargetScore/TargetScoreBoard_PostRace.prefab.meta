@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1d276bcd49eb4440a34dc7ef15a2939
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Boards/TargetScore/TargetScoreBoard_PostRace.prefab
+  uploadId: 824334

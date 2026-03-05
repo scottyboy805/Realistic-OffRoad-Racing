@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4e23f56a1da16949a853dae3c25f01c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Misc/RaceRewardItemEntryUI.prefab
+  uploadId: 824334

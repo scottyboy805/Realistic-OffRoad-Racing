@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a719321fb6b8ce4f87e6d8e011aac10
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Screens/Screen_Challenges.prefab
+  uploadId: 824334

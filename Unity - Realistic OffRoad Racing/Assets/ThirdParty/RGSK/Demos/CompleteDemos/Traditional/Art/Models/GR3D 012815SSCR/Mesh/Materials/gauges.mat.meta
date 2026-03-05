@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1e54b77bece0f649b6361ce47c1e215
+timeCreated: 1507068044
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/GR3D 012815SSCR/Mesh/Materials/gauges.mat
+  uploadId: 824334

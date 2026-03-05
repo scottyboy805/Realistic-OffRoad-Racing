@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 057a88d08466700499811b466a94e630
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Sessions/Event_Eliminator.asset
+  uploadId: 824334

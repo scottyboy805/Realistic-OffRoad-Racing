@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7cfe69904130c841baf8067640e9dbc, type: 3}
+  m_Name: TrackDefinition_MeadowParkDragway_1000m
+  m_EditorClassIdentifier: 
+  id:
+    value: 372b5f32-4430-4d26-a83c-35ae70e2c234
+  objectName: Meadow Park Dragway (1000m)
+  description: A straight and smooth track designed for the ultimate speed showdown.
+    With roaring engines and the smell of burning rubber, it's the heart-pounding
+    battleground where competitors push their machines to the limit in a quest for
+    the quickest time.
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: e95a6a9a05bd06246956c84d3b4b0462, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  ownedMode: 0
+  ownedPrice: 0
+  scene:
+    sceneAsset: {fileID: 102900000, guid: 45c1f0c946fdd16449c64a66aac2f9af, type: 3}
+    scenePath: Assets/ThirdParty/RGSK/Demos/CompleteDemos/Traditional/Scenes/MeadowParkDragway.unity
+  country: {fileID: 11400000, guid: f08c55cd4e2c9764b935c9d7887fa6b2, type: 2}
+  minimapPreview: {fileID: 0}
+  layoutType: 1
+  length: 1000
+  gridSlots: 2
+  allowRollingStarts: 0
+  allowedRaceTypes:
+  - {fileID: 11400000, guid: 41776d73069e90f41b0b0827c9a8e83e, type: 2}

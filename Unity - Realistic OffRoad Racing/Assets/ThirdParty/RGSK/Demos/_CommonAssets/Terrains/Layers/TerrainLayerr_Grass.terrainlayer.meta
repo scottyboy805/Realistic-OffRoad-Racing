@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2da22b59cdb5e914099ef5f253e71bde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Terrains/Layers/TerrainLayerr_Grass.terrainlayer
+  uploadId: 824334

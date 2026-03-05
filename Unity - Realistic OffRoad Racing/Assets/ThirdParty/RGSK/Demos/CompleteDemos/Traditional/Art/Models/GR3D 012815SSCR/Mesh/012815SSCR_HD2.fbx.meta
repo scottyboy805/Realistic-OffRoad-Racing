@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: d18493f77419e9b41ac08f3db3ae5532
+timeCreated: 1507078574
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Caliper FL
+    100006: Caliper FR
+    100008: Caliper RL
+    100010: Caliper RR
+    100012: dial fuel
+    100014: dial RPM
+    100016: dial Speedometer
+    100018: interior
+    100020: steering wheel
+    100022: Whl HD FL
+    100024: Whl HD FR
+    100026: Whl HD RL
+    100028: Whl HD RR
+    100030: wing
+    400000: //RootNode
+    400002: body
+    400004: Caliper FL
+    400006: Caliper FR
+    400008: Caliper RL
+    400010: Caliper RR
+    400012: dial fuel
+    400014: dial RPM
+    400016: dial Speedometer
+    400018: interior
+    400020: steering wheel
+    400022: Whl HD FL
+    400024: Whl HD FR
+    400026: Whl HD RL
+    400028: Whl HD RR
+    400030: wing
+    2300000: body
+    2300002: Caliper FL
+    2300004: Caliper FR
+    2300006: Caliper RL
+    2300008: Caliper RR
+    2300010: dial fuel
+    2300012: dial RPM
+    2300014: dial Speedometer
+    2300016: interior
+    2300018: steering wheel
+    2300020: Whl HD FL
+    2300022: Whl HD FR
+    2300024: Whl HD RL
+    2300026: Whl HD RR
+    2300028: wing
+    3300000: body
+    3300002: Caliper FL
+    3300004: Caliper FR
+    3300006: Caliper RL
+    3300008: Caliper RR
+    3300010: dial fuel
+    3300012: dial RPM
+    3300014: dial Speedometer
+    3300016: interior
+    3300018: steering wheel
+    3300020: Whl HD FL
+    3300022: Whl HD FR
+    3300024: Whl HD RL
+    3300026: Whl HD RR
+    3300028: wing
+    4300000: body
+    4300002: wing
+    4300004: interior
+    4300006: steering wheel
+    4300008: Caliper RR
+    4300010: Whl HD RR
+    4300012: Caliper FR
+    4300014: Whl HD FR
+    4300016: Caliper FL
+    4300018: Whl HD FL
+    4300020: Caliper RL
+    4300022: Whl HD RL
+    4300024: dial RPM
+    4300026: dial Speedometer
+    4300028: dial fuel
+    7400000: modo_Anim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/Art/Models/GR3D 012815SSCR/Mesh/012815SSCR_HD2.fbx
+  uploadId: 824334

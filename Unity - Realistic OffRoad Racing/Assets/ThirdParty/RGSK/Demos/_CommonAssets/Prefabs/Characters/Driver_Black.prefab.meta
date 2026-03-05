@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d72a10c0193e7d4892ef4b86d605d8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/Characters/Driver_Black.prefab
+  uploadId: 824334

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 947e6abca382b0a49b0d41c38ebaf3e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Misc/ChampionshipRoundText.prefab
+  uploadId: 824334

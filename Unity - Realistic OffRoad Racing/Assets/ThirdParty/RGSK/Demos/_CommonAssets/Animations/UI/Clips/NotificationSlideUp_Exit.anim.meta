@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0f02e28bd448c44db97d6179439ca41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Animations/UI/Clips/NotificationSlideUp_Exit.anim
+  uploadId: 824334

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2f8ceded72644b4399fe9d26c6085bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Elements/VehicleUI_Compact.prefab
+  uploadId: 824334

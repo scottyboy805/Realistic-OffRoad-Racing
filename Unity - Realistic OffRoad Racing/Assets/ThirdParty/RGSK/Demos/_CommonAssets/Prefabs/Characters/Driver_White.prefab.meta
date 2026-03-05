@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87bc77908f5b68348b27b3c8d9c54e64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/Characters/Driver_White.prefab
+  uploadId: 824334

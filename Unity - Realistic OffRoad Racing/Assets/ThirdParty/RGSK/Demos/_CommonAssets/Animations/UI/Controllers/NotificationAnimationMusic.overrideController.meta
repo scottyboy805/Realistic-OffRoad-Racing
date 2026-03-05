@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a08fc442d583e8a40b6f3dfe6e023ed4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Animations/UI/Controllers/NotificationAnimationMusic.overrideController
+  uploadId: 824334

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af337d466ebfcda41bb2f26cc707b053
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Boards/TargetScore/TargetScoreBoard_Mini.prefab
+  uploadId: 824334

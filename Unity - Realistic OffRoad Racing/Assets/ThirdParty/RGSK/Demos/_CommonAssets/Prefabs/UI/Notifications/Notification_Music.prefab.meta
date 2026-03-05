@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e0aa465591dddd48878d63baa4f2a91
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/_CommonAssets/Prefabs/UI/Notifications/Notification_Music.prefab
+  uploadId: 824334

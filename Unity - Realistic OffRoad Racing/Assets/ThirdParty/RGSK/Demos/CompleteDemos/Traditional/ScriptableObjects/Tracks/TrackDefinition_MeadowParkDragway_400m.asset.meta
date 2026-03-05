@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0e5e9e4c3e2db7429d25d49434a1066
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Tracks/TrackDefinition_MeadowParkDragway_400m.asset
+  uploadId: 824334

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6eb3979a3e3ac8448a6579cd4efa981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22615
+  packageName: Racing Game Starter Kit
+  packageVersion: 2.1.2
+  assetPath: Assets/RGSK/Demos/CompleteDemos/Traditional/ScriptableObjects/Sessions/Event_400mDash.asset
+  uploadId: 824334
