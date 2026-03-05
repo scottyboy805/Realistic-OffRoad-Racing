@@ -1,0 +1,18 @@
+
+
+This package is for HDRP rendering pipeline
+
+You need to create an empty HDRP project then import this package into it:
+
+Note: Only Unity 6 LTS is supported
+
+Note: Only high-end platforms is supported
+
+Note: Restart unity after import completed
+
+Note: Control mode will be switch automatically when you connect por disconnect game controller3
+
+____________________________________________________
+Please don't ask your question in the review section
+
+Please ask your problem here: ALIyerEdon@gmail.com
