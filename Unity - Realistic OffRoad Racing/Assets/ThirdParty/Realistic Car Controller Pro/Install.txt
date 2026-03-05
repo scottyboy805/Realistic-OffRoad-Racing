@@ -1,0 +1,10 @@
+Builtin render pipeline no longer supported by RCCP for Unity 6 versions. 
+
+Imported dailog will welcome you before importing RCCP.
+
+Import the right version to your project. Don't import the incorrect one, you won't be able to undo this action.
+
+Be sure your project has proper render pipeline configuration before using RCCP. URP has simple setup, but HDRP is much more complicated. 
+
+Once the import is done, check the console if you are having any errors. You can safely ignore warning messages about missing decal renderers and poly counts on some colliders.
+
